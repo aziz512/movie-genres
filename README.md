@@ -7,7 +7,7 @@ The CSV file must be from https://grouplens.org/datasets/movielens/latest/ or ha
 ## Dependencies
 
 * [Java 8](https://docs.oracle.com/javase/8/docs/api/index.html)
-* GJSON (jar in lib folder)
+* GSON (jar in lib folder)
 * Google Charts (using CDN)
 * Javascript (ES6+ compatible browser)
 
